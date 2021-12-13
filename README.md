@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexutz21
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning HTML, CSS, C# and JavaScript
 - 💞️ I’m looking to collaborate on Games projects
 - 📫 How to reach me by e-mail : alex.lungu21@yahoo.com
 
